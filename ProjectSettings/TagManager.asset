@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Object
+  - Enemy
+  - Bullet
+  - CanShootOver
+  - Muzzle_Flash
+  - EnemyVision
+  - renderer
+  - PlayerBullet
+  - EnemyBullet
+  - Gunpoint
+  - HealthIcon
+  - HealthBarText
+  - DialogueBox
+  - DialogueText
+  - Spawner
+  - EnemyMelee
+  - CantShootThrough
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Static Obstacle
+  - Player
+  - Projectiles
+  - Enemies
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2340488551
+    locked: 1

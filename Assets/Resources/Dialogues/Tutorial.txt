@@ -1,0 +1,11 @@
+﻿//Tutorial
+You have yet to master moving up.
+Moving down still seems to be a problem for you.
+No, dont go left yet.
+Ok...
+Don't use that button yet.
+
+//SceneManagment
+You must kill everyone before proceeding!
+This door is locked!
+*You have brutally murdered a prison guard, and have taken their weapons*

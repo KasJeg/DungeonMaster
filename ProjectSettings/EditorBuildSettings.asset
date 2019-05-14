@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Saves/Main Menu.unity
+    guid: 52fb016e311b6504fb18c6ed63b5fb9d
+  - enabled: 1
+    path: Assets/Saves/CorrectLevels/Level1.unity
+    guid: f6179fcb46f6db94ebbf6c83091a83a7
+  - enabled: 1
+    path: Assets/Saves/CorrectLevels/Level2.unity
+    guid: ef2b1ea2833e26f4ca362cde3345bfd2
+  - enabled: 1
+    path: Assets/Saves/SurviveMission.unity
+    guid: 0716c68fb9ebc2f44bd3b1ada1176bf2
+  - enabled: 1
+    path: Assets/Saves/CorrectLevels/Level3.unity
+    guid: 9f024d0d0a654af4ba91b1e012e62a7a
+  - enabled: 1
+    path: Assets/Saves/CorrectLevels/Level4.unity
+    guid: 6aa856fe3c81e6c4f8bc1ecb7312ac18
+  - enabled: 0
+    path: Assets/Saves/Main.unity
+    guid: bbead40b0343c464eb394e4b7b34be7c
+  - enabled: 0
+    path: Assets/Saves/world2.unity
+    guid: 72eaf6bd02564d044ad6bf4a6a6aea8a
+  - enabled: 0
+    path: Assets/Saves/SiimuMaailm.unity
+    guid: 9cceee25c9d9bd7469f5222cc20a5d40
+  - enabled: 1
+    path: Assets/Saves/Atu testimis tuba.unity
+    guid: aa5a3f2b7c404cb4fbf5a53b61b76763
+  - enabled: 1
+    path: Assets/Saves/Level5.unity
+    guid: a9a299b0b2f5a094cac2c8632743fc88
+  - enabled: 1
+    path: Assets/Saves/CorrectLevels/TeachWeapons.unity
+    guid: 03d8fd475a2534b4689f3288e6b24244
+  - enabled: 1
+    path: Assets/Saves/CorrectLevels/TeachWeapon2.unity
+    guid: 00000000000000000000000000000000
